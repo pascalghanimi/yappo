@@ -12,3 +12,5 @@ config.json
 
 # ignores all files with a specific ending
 *.log
+
+yappi
