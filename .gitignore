@@ -1,0 +1,14 @@
+# ignores entire folder
+node_modules/
+
+# ignores specific file
+config.json
+
+# ignores hidden files and folders (those who start with a dot)
+.*
+
+# Exception: don't ignore this file
+!.gitignore
+
+# ignores all files with a specific ending
+*.log
